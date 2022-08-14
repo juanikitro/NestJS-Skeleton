@@ -1,6 +1,6 @@
 # TypeScript NestJS Bootstrap (base / project starter)
 
-This is a repository intended to serve as a starting point if you want to bootstrap a NestJS project in TypeScript.
+This is a repository intended to serve as a starting point if you want to bootstrap a NestJS project in TypeScript with GH Actions, my Prettier config and some extras.
 
 ## Features
 
